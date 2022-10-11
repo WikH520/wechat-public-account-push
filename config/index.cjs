@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '韩佳慧',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oS0kq65_ft2r-WkOg8iAsbtIuZdw',
+      id: 'oS0kq68YEWYcxgIx0V6dY1BCGtYM',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'rFgVylJoEO0w-mrR-Wvdaj-O9W1SXJt5ggyNq7t9D9M',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
@@ -40,9 +40,9 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2022-09-08' },
+        { keyword: 'love_day', date: '2020-02-13' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
+        { keyword: 'marry_day', date: '2020-02-13' },
       ],
     },
   ],
